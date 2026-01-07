@@ -25,3 +25,16 @@ No confidential or proprietary data is used.
 
 ## Author
 Sreemanth Challagali
+## 📌 Business Problem
+Selecting the most suitable locations in Hyderabad for education franchise expansion using data-driven decision making.
+
+## 📊 Approach
+- Defined business-relevant indicators such as population, educational infrastructure, student ecosystem, and residential nature
+- Assigned weights based on franchise decision priorities
+- Converted indicators into relative scores
+- Ranked locations using a weighted scoring model
+
+## 🧠 Key Learning
+- Importance of assumptions in real-world analytics
+- How scoring models support structured business decisions
+- Trade-off between data availability and decision urgency
