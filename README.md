@@ -38,3 +38,12 @@ Selecting the most suitable locations in Hyderabad for education franchise expan
 - Importance of assumptions in real-world analytics
 - How scoring models support structured business decisions
 - Trade-off between data availability and decision urgency
+
+## Week 5 Outcome
+A weighted scoring model was applied to evaluate GHMC locations for education franchise expansion.
+Kukatpally emerged as the primary recommended location, with Uppal as a strong alternative.
+The model was stress-tested with minor weight changes and showed stable ranking behavior.
+
+## Model Limitations
+The analysis is based on approximate locality-level data and relative scoring.
+Operational factors such as rent, competition, and regulatory constraints are not included at this stage.
